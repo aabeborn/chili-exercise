@@ -1,0 +1,219 @@
+{
+	"films": [
+		{
+			"id": "fe790061-dfe4-4cbe-a9d3-0f764a13d65f",
+			"type": "MOVIE",
+			"catalogRedirectId": "fe790061-dfe4-4cbe-a9d3-0f764a13d65f",
+			"catalogRedirectType": "MOVIE",
+			"title": "L'incredibile Hulk",
+			"urlSlug": "l-incredibile-hulk-2008",
+			"backdropUrl": "https://cdn.chili.com/images/public/cms/14/dc/aa/95/14dcaa95-ed5b-42f8-8d52-4b9456274ea8.jpg?width=1920",
+			"coverUrl": "https://cdn.chili.com/images/public/cms/fa/5f/88/90/fa5f8890-7b62-449f-aec9-10e4cd8a0d24.jpg?width=352",
+			"wideCoverUrl": "https://cdn-int-chili-2.chili.com/images/public/cms/ef/06/45/3e/ef06453e-a292-4350-ba74-959ecfd00ba0.jpg",
+			"parentalLevel": {
+				"country": "IT",
+				"level": "T"
+			},
+			"shownPrice": {
+				"price": 7.99,
+				"vat": 22.0,
+				"currency": "EUR"
+			},
+			"imdbId": "tt0800080",
+			"productId": "0d6616e5-31e1-4df2-ab53-1513de698388"
+		},
+		{
+			"id": "2fd98632-45f6-47df-8eef-278a239efa4a",
+			"type": "MOVIE",
+			"catalogRedirectId": "2fd98632-45f6-47df-8eef-278a239efa4a",
+			"catalogRedirectType": "MOVIE",
+			"title": "Assassin's Creed",
+			"urlSlug": "assassin-s-creed-2016",
+			"backdropUrl": "https://cdn.chili.com/images/public/cms/a2/df/8a/df/a2df8adf-d073-4476-adf4-21fe00c2d8da.jpg?width=1920",
+			"coverUrl": "https://cdn.chili.com/images/public/cms/f9/1e/ed/2b/f91eed2b-37c1-4756-9777-68dae2c13867.jpg?width=330",
+			"wideCoverUrl": "https://cdn-int-chili-2.chili.com/images/public/cms/5d/27/72/6b/5d27726b-0e88-41ca-8503-49002ede35fe.jpg",
+			"parentalLevel": {
+				"country": "IT",
+				"level": "VM14"
+			},
+			"shownPrice": {
+				"price": 9.99,
+				"vat": 22.0,
+				"currency": "EUR"
+			},
+			"imdbId": "tt2094766",
+			"productId": "f56ec883-c871-4458-bcca-5d646ffbeb7e"
+		},
+		{
+			"id": "6d9af5c8-2d45-4bfc-abd9-f353931c3722",
+			"type": "MOVIE",
+			"catalogRedirectId": "6d9af5c8-2d45-4bfc-abd9-f353931c3722",
+			"catalogRedirectType": "MOVIE",
+			"title": "Star Wars: Gli ultimi Jedi",
+			"urlSlug": "star-wars-gli-ultimi-jedi-2017",
+			"backdropUrl": "https://cdn.chili.com/images/public/cms/8b/ee/f7/c2/8beef7c2-552c-4da5-ad5c-3daff684d92e.jpg?width=1920",
+			"coverUrl": "https://cdn-int-chili-2.chili.com/images/public/cms/a7/2b/5e/98/a72b5e98-8fba-4942-b628-4656917946fe.jpg",
+			"wideCoverUrl": "https://cdn-int-chili-2.chili.com/images/public/cms/8d/4a/21/c2/8d4a21c2-b849-4a31-bd3e-abb386876be7.jpg",
+			"parentalLevel": {
+				"country": "IT",
+				"level": "T"
+			},
+			"imdbId": "tt2527336",
+			"productId": "e520817e-20d1-40e1-88a7-e4df8d0b9904"
+		},
+		{
+			"id": "31d29ecb-1d28-4fea-a5d1-75e96879d8e1",
+			"type": "MOVIE",
+			"catalogRedirectId": "31d29ecb-1d28-4fea-a5d1-75e96879d8e1",
+			"catalogRedirectType": "MOVIE",
+			"title": "Thor: The Dark World",
+			"urlSlug": "thor-the-dark-world-2013",
+			"backdropUrl": "https://cdn.chili.com/images/public/cms/6e/9c/6c/86/6e9c6c86-4b52-4deb-a0eb-49e6c578aec4.jpg?width=1920",
+			"coverUrl": "https://cdn.chili.com/images/public/cms/0f/5c/6b/55/0f5c6b55-70cf-4c00-9d68-df5a2372df72.jpg?width=330",
+			"wideCoverUrl": "https://cdn-int-chili-2.chili.com/images/public/cms/ad/bb/02/ef/adbb02ef-7ff3-4417-b4bf-c723ee388549.jpg",
+			"parentalLevel": {
+				"country": "IT",
+				"level": "T"
+			},
+			"shownPrice": {
+				"price": 2.99,
+				"vat": 22.0,
+				"currency": "EUR"
+			},
+			"imdbId": "tt1981115",
+			"productId": "42037435-eec5-42cf-8066-a7d91499cea9"
+		},
+		{
+			"id": "a2de53d2-d56e-4c3d-a05f-bba3e1b499e2",
+			"type": "MOVIE",
+			"catalogRedirectId": "a2de53d2-d56e-4c3d-a05f-bba3e1b499e2",
+			"catalogRedirectType": "MOVIE",
+			"title": "Rogue One: A Star Wars Story",
+			"urlSlug": "rogue-one-a-star-wars-story-2016",
+			"backdropUrl": "https://cdn.chili.com/images/public/cms/15/6a/a5/cc/156aa5cc-71af-4baf-a931-68e578fc705a.jpg?width=1920",
+			"coverUrl": "https://cdn.chili.com/images/public/cms/a9/94/af/71/a994af71-189c-4c9b-ac0b-61d28e529b01.jpg?width=330",
+			"wideCoverUrl": "https://cdn-int-chili-2.chili.com/images/public/cms/8c/c5/a6/62/8cc5a662-2a2f-4231-be43-47d675f7cb06.jpg",
+			"parentalLevel": {
+				"country": "IT",
+				"level": "T"
+			},
+			"shownPrice": {
+				"price": 11.99,
+				"vat": 22.0,
+				"currency": "EUR"
+			},
+			"imdbId": "tt3748528",
+			"productId": "26035798-1e1d-483f-ab26-5081b165988b"
+		},
+		{
+			"id": "6acf6abc-68db-4d5a-bf84-2df6d2ec73d7",
+			"type": "MOVIE",
+			"catalogRedirectId": "6acf6abc-68db-4d5a-bf84-2df6d2ec73d7",
+			"catalogRedirectType": "MOVIE",
+			"title": "Iron Man 3",
+			"urlSlug": "iron-man-3-2013",
+			"backdropUrl": "https://cdn.chili.com/images/public/cms/62/0f/57/90/620f5790-3d56-4c30-9597-87529a70d2f2.jpg?width=1920",
+			"coverUrl": "https://cdn.chili.com/images/public/cms/52/c1/3a/0b/52c13a0b-4e6d-4a81-9472-c6f1701eda1a.jpg?width=220",
+			"wideCoverUrl": "https://cdn-int-chili-2.chili.com/images/public/cms/60/4c/d6/d0/604cd6d0-56af-48f0-be11-1a4ad8d87f40.jpg",
+			"parentalLevel": {
+				"country": "IT",
+				"level": "T"
+			},
+			"shownPrice": {
+				"price": 11.99,
+				"vat": 22.0,
+				"currency": "EUR"
+			},
+			"imdbId": "tt1300854",
+			"productId": "4f5689e5-35c1-4227-b893-91fec376e9d1"
+		},
+		{
+			"id": "7781913a-0521-4f50-984b-187a67b9844b",
+			"type": "MOVIE",
+			"catalogRedirectId": "7781913a-0521-4f50-984b-187a67b9844b",
+			"catalogRedirectType": "MOVIE",
+			"title": "Frozen - Il regno di ghiaccio",
+			"urlSlug": "frozen-il-regno-di-ghiaccio-2013",
+			"backdropUrl": "https://cdn.chili.com/images/public/cms/67/21/6c/a4/67216ca4-7996-4eb1-9ac8-1847f69df9c4.jpg?width=1920",
+			"coverUrl": "https://cdn.chili.com/images/public/cms/96/ed/6e/3e/96ed6e3e-4e4c-46cb-9e09-80c6bf695bff.jpg?width=220",
+			"wideCoverUrl": "https://cdn-int-chili-2.chili.com/images/public/cms/69/8a/2f/29/698a2f29-eef9-48e8-8e1f-d239296d1646.jpg",
+			"parentalLevel": {
+				"country": "IT",
+				"level": "T"
+			},
+			"shownPrice": {
+				"price": 2.99,
+				"vat": 22.0,
+				"currency": "EUR"
+			},
+			"imdbId": "tt2294629",
+			"productId": "c226c17d-7421-4413-b10c-d8b6db3e64e8"
+		},
+		{
+			"id": "7f0b20b7-9e46-418a-80da-7d3cf9ccf243",
+			"type": "MOVIE",
+			"catalogRedirectId": "7f0b20b7-9e46-418a-80da-7d3cf9ccf243",
+			"catalogRedirectType": "MOVIE",
+			"title": "The Avengers",
+			"urlSlug": "the-avengers-2012",
+			"backdropUrl": "https://cdn.chili.com/images/public/cms/fb/98/ae/6f/fb98ae6f-cda4-4a75-9d83-22aedb3c4379.jpg?width=1920",
+			"coverUrl": "https://cdn.chili.com/images/public/cms/88/ee/f9/e7/88eef9e7-0c6f-41d4-bd53-7be3e99a33a3.jpg?width=330",
+			"wideCoverUrl": "https://cdn-int-chili-2.chili.com/images/public/cms/98/1c/14/8f/981c148f-6177-4362-8f3b-f0c301640253.jpg",
+			"parentalLevel": {
+				"country": "IT",
+				"level": "T"
+			},
+			"shownPrice": {
+				"price": 2.99,
+				"vat": 22.0,
+				"currency": "EUR"
+			},
+			"imdbId": "tt0848228",
+			"productId": "c979a79f-2cfe-4cb6-9ec2-e15eed2fe90c"
+		},
+		{
+			"id": "5719c771-08ff-4317-9275-01bff6dc7bcf",
+			"type": "MOVIE",
+			"catalogRedirectId": "5719c771-08ff-4317-9275-01bff6dc7bcf",
+			"catalogRedirectType": "MOVIE",
+			"title": "Transformers - L'ultimo cavaliere",
+			"urlSlug": "transformers-l-ultimo-cavaliere-2017",
+			"backdropUrl": "https://cdn.chili.com/images/public/cms/d4/3c/0c/31/d43c0c31-27d2-4221-91ff-604917edb4a9.jpg?width=1920",
+			"coverUrl": "https://cdn.chili.com/images/public/cms/1a/d6/ca/a6/1ad6caa6-8e25-4acd-8c65-2fd7337f8176.jpg?width=330",
+			"wideCoverUrl": "https://cdn-int-chili-2.chili.com/images/public/cms/2b/03/3e/82/2b033e82-8499-4346-9f11-6a3c216c686d.jpg",
+			"parentalLevel": {
+				"country": "IT",
+				"level": "T"
+			},
+			"shownPrice": {
+				"price": 3.99,
+				"vat": 22.0,
+				"currency": "EUR"
+			},
+			"imdbId": "tt3371366",
+			"productId": "c3509013-5a7f-4bda-a787-f19a3659cdc2"
+		},
+		{
+			"id": "46ba6458-5c99-4f55-aad9-eda38d2fdeec",
+			"type": "MOVIE",
+			"catalogRedirectId": "46ba6458-5c99-4f55-aad9-eda38d2fdeec",
+			"catalogRedirectType": "MOVIE",
+			"title": "Captain America: Civil War",
+			"urlSlug": "captain-america-civil-war-2016",
+			"backdropUrl": "https://cdn.chili.com/images/public/cms/7b/b6/33/2d/7bb6332d-a8c4-4f9a-8164-f4fcdc544833.jpg?width=1920",
+			"coverUrl": "https://cdn.chili.com/images/public/cms/19/64/83/80/19648380-e63b-41b2-bc2f-9b639abb89b7.jpg?width=330",
+			"wideCoverUrl": "https://cdn-int-chili-2.chili.com/images/public/cms/a1/d6/1a/ea/a1d61aea-4465-455e-8e9d-0e6525957fd9.jpg",
+			"parentalLevel": {
+				"country": "IT",
+				"level": "T"
+			},
+			"shownPrice": {
+				"price": 10.99,
+				"vat": 22.0,
+				"currency": "EUR"
+			},
+			"imdbId": "tt3498820",
+			"productId": "db94c5dc-9a29-4062-9fbf-a445ee22013f"
+		}
+	]
+}

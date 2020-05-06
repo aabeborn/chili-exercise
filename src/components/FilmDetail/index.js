@@ -13,7 +13,8 @@ const Container = styled.div`
 	align-items: start;
 	padding: 4rem;
 	@media screen and (max-width: 48em) {
-		justify-content: start;
+		justify-content: center;
+		align-items: center;
 		padding: 1rem;
 	}
 	& :not(:last-child) {

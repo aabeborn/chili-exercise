@@ -21,7 +21,7 @@ const GlobalStyle = createGlobalStyle`
     margin: 0;
     padding: 0;
   }
-  /* resolve the vh vw bug on mobiles */
+
   html {
     width: 100%;
     height: 100%;
@@ -34,9 +34,6 @@ const GlobalStyle = createGlobalStyle`
     height: 100%;
     overflow:hidden;
   }
-
-  
-
 `
 
 function AppProviders({ children }) {

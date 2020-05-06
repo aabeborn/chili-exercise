@@ -96,7 +96,6 @@ function FilmsList({ isLoading, films, filmChange }) {
 	return (
 		<Container>
 			{isLoading || films.length === 0 ? renderSkeleton() : renderItems()}
-			{/* {renderSkeleton()} */}
 		</Container>
 	)
 }

@@ -28,6 +28,7 @@ const Container = styled.div`
 		z-index: 1;
 	}
 `
+
 function App() {
 	const { films, status } = useFilms(
 		data => setActiveFilm(() => ({ ...data[0] })),

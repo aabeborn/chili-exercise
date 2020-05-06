@@ -8,7 +8,7 @@ function FallbackError({ error }) {
 	console.error(error)
 	return (
 		<Container>
-			<h1>oh no! An unexpected error happened!</h1>
+			<h5>oh no! An unexpected error happened!</h5>
 		</Container>
 	)
 }
